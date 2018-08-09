@@ -1,5 +1,5 @@
 [postgresconfig]
 user=postgres
-password=Insight123$
+password=
 
 
